@@ -23,7 +23,7 @@ function App() {
           <Route path="/transactions" element={<Transactions />} />
           <Route path="/profile" element={<Profile />} />
           <Route path="/AdminDashboard" element={<AdminDashboard />} />
-          <Route path="/Buy" element={<BuyBtn />} />
+          {/* <Route path="/Buy" element={<BuyBtn />} /> */}
           <Route path="/admintransactionmanagement" element={<AdminTransactionManagement />} />
     
           {/* <Route path="/Support" element={<Support />} /> */}
