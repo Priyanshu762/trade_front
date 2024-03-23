@@ -6,7 +6,7 @@ import Transactions from "./components/transactions.jsx";
 import Profile from "./components/Profile.jsx";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AdminDashboard from "./components/AdminDashboard.jsx";
-import BuyBtn from "./components/ButBtn/BuyBtn.jsx";
+// import BuyBtn from "./components/ButBtn/BuyBtn.jsx";
 import Support from "./components/Support.jsx";
 
 import AdminTransactionManagement from "./components/Admin/AdminTransactionMangement.jsx";
